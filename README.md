@@ -19,4 +19,4 @@ I'm Dwailan a Technical Support Specialist based out of Barbados.
 
 I mostly work with functionality and productivity tools but moving into Game design 
 
-Over the next few Months / Weeks I will be posting projects and tools I personally find interesting and fun.
+Over the next few Months / Weeks I will be posting projects and tools I personally find interesting and exciting.
