@@ -20,3 +20,5 @@ I'm Dwailan a Technical Support Specialist based out of Barbados.
 I mostly work with functionality and productivity tools but moving into Game design 
 
 Over the next few Months / Weeks I will be posting projects and tools I personally find interesting and exciting.
+
+- 🔭 I’m currently working on a retro snake game in Java, it was an old project made, that I'm modernizing 
