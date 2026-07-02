@@ -21,4 +21,4 @@ I mostly work with functionality and productivity tools but moving into Game des
 
 Over the next few Months / Weeks I will be posting projects and tools I personally find interesting and exciting.
 
-- 🔭 I’m currently working on a retro snake game in Java, it was an old project made, that I'm modernizing 
+- 🔭 I’m currently working on a retro snake game in Java, it was an old project made back in 2018 using a tutorial on youtube it was a fun inspiriging project that ended up having my own slight spin on it, recently I decided to revisit it and see if it could be modernized into a more fun full fledged game.
