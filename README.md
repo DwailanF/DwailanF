@@ -21,6 +21,6 @@ I mostly work with functionality and productivity tools but moving into Game des
 
 Over the next few Months / Weeks I will be posting projects and tools I personally find interesting and exciting.
 
-My first project is already live and viewable on my profile it is a [Device Inventory Management System](https://github.com/DwailanF/Device_Inventory_Dashboard/issues). Feel free to check it out and comment if you see find any issues! 
+My first project is already live and viewable on my profile it is a [Device Inventory Management System](https://github.com/DwailanF/Device_Inventory_Dashboard). Feel free to check it out and [comment](https://github.com/DwailanF/Device_Inventory_Dashboard/issues) if you see find any issues, improvements or questions! 
 
 - 🔭 I’m currently working on a retro snake game in Java, it was an old project made back in 2018 using a tutorial on youtube it was a fun inspiriging project that ended up having my own slight spin on it, recently I decided to revisit it and see if it could be modernized into a more fun full fledged game.
